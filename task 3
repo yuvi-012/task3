@@ -1,0 +1,33 @@
+what is the difference between functional and non-functional ?give some example in support of your answer.
+In the functional testing the functionality of a software is by testing its individual functions or specific requirement and verified the software performs as expected and fulfilling the client needs.
+
+the functional testing includes unit testing,integration testing,system testing,and acceptance testing.
+
+non-functional testing is to be test the behaviour of the software it focuse on the how our product is behaving in qualities as performance,reliablity,usability,scalability,security,and maintainability.
+
+And it also test in various condition like load testing,stress testing,usability testing,security testing,compatibility testing.
+
+functional examples: creating own playlist,adding songs in my playlist,playing the song orderwise,playing the song in shuffle.
+
+non-functional example:checking how quickly playing or streaming ,how to find the song easily,veriyfing my login account is protected,check my account is accessable in both web and app,check the increase of user it handle the load.
+
+functional testing:
+unit testing: testing individuals units or components of the software in isolation to ensure they function.
+
+system testing: this testing is verify that it meets specified requirements.
+
+integration testing: testing between different components to check they work combined.
+
+user acceptance testing: this testing is tested by user to validate that the software meets their needs and expectations.
+
+non-functional testing:
+performance testing: examinatinon of how the system performs under different load conditions ,including stress testing,load testing,scalability testing.
+
+security testing: assessing the system ability to protect data and resources from unauthorized access.
+
+usability testing: testing the interface and experience to ensure it is easy to use,and meet users needs.
+
+reliability testing: testing the software ability under various condition over time.
+
+compatibility testing: checking the software perform correctly in all different platform like devices,operating system,browser etc.
+
